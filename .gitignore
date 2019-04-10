@@ -1,6 +1,6 @@
-.gradle
-/build/
-!gradle/wrapper/gradle-wrapper.jar
+HELP.md
+/target/
+!.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
 .apt_generated
@@ -16,7 +16,6 @@
 *.iws
 *.iml
 *.ipr
-/out/
 
 ### NetBeans ###
 /nbproject/private/
@@ -24,3 +23,12 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+/build/
+
+### VS Code ###
+.vscode/
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/MavenWrapperDownloader.java
+.mvn/wrapper/maven-wrapper.properties
+mvnw.cmd
+mvnw

@@ -1,4 +1,4 @@
-package com.throower.web.throower;
+package com.throower.Throower;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -14,4 +14,3 @@ public class ThroowerApplicationTests {
 	}
 
 }
-
